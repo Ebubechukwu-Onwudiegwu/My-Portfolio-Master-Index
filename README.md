@@ -1,4 +1,4 @@
-\# 🛡️ Ebubechukwu's Cybersecurity \& GRC Portfolio
+\# Ebubechukwu's Cybersecurity \& GRC Portfolio 🛡️
 \*\*Navigating the intersection of Cloud Security, Risk Management, and Regulatory Compliance.\*\*
 
 
@@ -9,23 +9,23 @@ Welcome! This repository serves as the central hub for my technical projects and
 
 
 
-\## 🚀 Featured Projects
+\## Featured Projects 🚀
 
 
 
-\### ☁️ \[AWS Security Architecture \& Governance](https://github.com/Ebubechukwu-Onwudiegwu/AWS-Security-Architecture-GRC.git)
+\### \[AWS Security Architecture \& Governance](https://github.com/Ebubechukwu-Onwudiegwu/AWS-Security-Architecture-GRC.git) ☁️
 
 \* \*\*Goal:\*\* Implement a secure, multi-tier VPC aligned with ISO 27001 \& NIST 800-53 frameworks.
 
 \* \*\*Key Skills:\*\* VPC Design, IAM RBAC, CloudTrail Audit Logging, Defense in Depth.
 
-\* \*\*Status:\*\* ✅ Completed
+\* \*\*Status:\*\* Completed ✅
 
 
 
 
 
-\## 📜 Professional Certifications \& Skillset
+\## Professional Certifications \& Skillset 📜
 
 \* \*\*Certifications:\*\* AWS Certified Cloud Practitioner, CompTIA Security+, ISC2 Certified in Cybersecurity.
 
@@ -39,7 +39,7 @@ Welcome! This repository serves as the central hub for my technical projects and
 
 
 
-\## 📫 Connect with Me
+\## Connect with Me 📫
 
 \* \*\*LinkedIn:\*\* linkedin.com/in/ebubechukwu-onwudiegwu
 
