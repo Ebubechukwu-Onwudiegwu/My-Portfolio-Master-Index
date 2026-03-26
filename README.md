@@ -6,9 +6,16 @@ Welcome! This repository serves as the central hub for my technical projects and
 
 ## 🚀 Featured Projects
 ### ☁️ [AWS Security Architecture & Governance](https://github.com/Ebubechukwu-Onwudiegwu/AWS-Security-Architecture-GRC.git)
-* **Goal:** Implement a secure, multi-tier VPC aligned with ISO 27001 & NIST 800-53 frameworks.
-* **Key Skills:** VPC Design, IAM RBAC, CloudTrail Audit Logging, Defense in Depth.
-* **Status:** Completed ✅
+* **The Goal:** Designing a hardened, multi-tier network architecture to isolate sensitive data and enforce strictly controlled traffic flow.
+* **Compliance Mapping:** ISO 27001:2022 Controls A.5.15(Access Control), A.5.18(Access Rights Management), A.8.15 (Logging & Monitoring), A.8.20 (Network Security), A.8.22 (Segregation of Networks); NIST 800-53 Rev. 5 Controls AC-03 (Access Enforcement), AU-02 (Event Logging), and SC-07 (Boundary Protection).
+* **Technical Stack:** AWS VPC, AWS IAM, AWS CloudTrail, Subnetting, Security Groups
+* **Key Outcome:** Established a "Defense-in-Depth" network baseline with zero public exposure for backend databases, fully auditable via centralized CloudTrail logging.
+
+### 🔑 [Cloud IAM Governance & Audit Guardrails](https://github.com/Ebubechukwu-Onwudiegwu/AWS-IAM-Governance-Guardrails.git)
+* **The Goal:** Moving from policy on paper to **Compliance as Code** by enforcing immutable audit trails in AWS.
+* **Compliance Mapping:** ISO 27001:2022 (A.8.10 - Information Deletion) and NIST 800-53 (AU-9 - Protection of Audit Info).
+* **Technical Stack:** JSON Scripting, AWS IAM, and Resource-level Access Control.
+* **Key Outcome:** Engineered a "No-Delete" guardrail for developer roles, ensuring data integrity for security audits.
 
 
 ## 📜 Professional Certifications & Skillset
