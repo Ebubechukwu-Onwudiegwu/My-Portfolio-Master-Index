@@ -17,12 +17,18 @@ Welcome! This repository serves as the central hub for my technical projects and
 * **Technical Stack:** JSON Scripting, AWS IAM, and Resource-level Access Control.
 * **Key Outcome:** Engineered a "No-Delete" guardrail for developer roles, ensuring data integrity for security audits.
 
+### 🆔 [Cloud IAM Privilege Escalation Guardrails](https://github.com/Ebubechukwu-Onwudiegwu/Cloud-IAM-Privilege-Escalation-Guardrails.git)
+* **The Goal:** Implementing Delegated Administration to allow junior admins to manage users safely while using Permissions Boundaries to prevent privilege escalation.
+* **Compliance Mapping:** ISO 27001:2022 Controls A.5.18 (Access Rights) and A.8.2 (Privileged Access); NIST 800-53 Controls AC-02 (Account Management) and AC-06 (Least Privilege); NDPR Part 2.1 (Data Governance).
+* **Technical Stack:** AWS IAM, Permissions Boundaries, JSON Policy Conditions, AWS Policy Variables.
+* **Key Outcome:** Engineered a "Governance Ceiling" that successfully neutralized an attempted privilege escalation (AdministratorAccess attachment) in real-time.
+
 
 ## 📜 Professional Certifications & Skillset
 * **Certifications:** AWS Certified Cloud Practitioner, CompTIA Security+, ISC2 Certified in Cybersecurity.
 * **Frameworks:** ISO 27001, NIST 800-53, NDPR.
 * **Technical:** AWS Cloud (VPC, IAM, S3, CloudTrail), Git/GitHub, Linux (Kali), Windows Server.
-* **Soft Skills:** Risk Assessment, Technical Writing, Audit Readiness.
+* **Soft Skills:** Risk Assessment, Technical Writing, Audit Readiness, Solutions Architecture.
 
 
 ## 📫 Connect with Me
